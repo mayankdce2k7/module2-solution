@@ -16,10 +16,10 @@ section{
 p {
   position: relative;
   top: 0px;
-  left: 80%;
+  left: calc(100% - 90px);
   border: 2px solid black;
   background-color: #A52A2A;
-  width: 20%;
+  width: 90px;
   margin: 0px;
   padding: 5px;
   font-family: Helvetica;
